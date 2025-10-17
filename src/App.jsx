@@ -8,7 +8,7 @@ import Hero from './Components/Hero';
 import Calculator from './Components/Calculator';
 import Footer from './Components/Footer';
 import Contacts from './Components/Contacts';
-import { CometCard } from "@/components/ui/comet-card";
+import { CometCard } from "@/Components/ui/comet-card.jsx";
 // Modal component for user sign-up
 const GetStartedModal = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
