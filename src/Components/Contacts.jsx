@@ -1,4 +1,4 @@
-import { CometCard } from "@/components/ui/comet-card";
+import { CometCard } from "@/Components/ui/comet-card.jsx";
 
 export default function Contacts() {
   const team = [
